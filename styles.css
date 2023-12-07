@@ -47,6 +47,7 @@ header .nav-bar li {
     flex-direction: column;
     row-gap: 24px;
     justify-content: center;
+    font-size: x-large;
 }
 
 .hero-content button {
@@ -54,6 +55,9 @@ header .nav-bar li {
     background-color: #445069;
     color: white;
     font-weight: lighter;
+}
+.hero-content .secondContent{
+    font-size: smaller;
 }
 
 .hero-content .secondContent h4 {
